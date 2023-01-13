@@ -45,7 +45,7 @@
     "rimraf": "^2.5.2",
     "rollbar-sourcemap-webpack-plugin": "^2.3.0",
     "webpack": "^4.19.1",
-    "webpack-cli": "^3.1.1",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-middleware": "^3.3.0",
     "webpack-s3-plugin": "^1.0.2"
   }
